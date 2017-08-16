@@ -1,4 +1,9 @@
-
+---
+title: Mirroring Awareness
+description: RTL languages, both the text alignment and reading order go from right to left, and the UI elements layout should follow this natural direction.
+ms.assetid: 4b4959af-cdd4-4ba1-99a4-65527523c6f1
+ms.date: 10/20/2016
+---
 
 # Mirroring Awareness
 
