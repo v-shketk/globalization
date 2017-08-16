@@ -1,4 +1,9 @@
-
+---
+title: Element Resizing
+description: The most time-consuming part of localizing the UI is resizing elements, particularly for applications with numerous languages and/or dialog boxes.
+ms.assetid: c5ffbb63-bd40-4e3f-8c73-98bdbe4ae0c8
+ms.date: 10/20/2016
+---
 
 # Element Resizing
 
