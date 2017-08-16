@@ -1,4 +1,9 @@
-
+---
+title: Mirroring Bug Examples
+description: 
+ms.assetid: 4e72c7d1-d4f2-4337-9fac-40e66474f967
+ms.date: 03/16/2016
+---
 
 # Mirroring in .NET Framework
 
