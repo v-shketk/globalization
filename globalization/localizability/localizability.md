@@ -1,4 +1,9 @@
-
+---
+title: Localizability
+description: Localizability is an intermediate process for verifying that a globalized application is ready for localization.
+ms.assetid: 8d5a7a30-7fbf-4378-bdcf-b681909e1e04
+ms.date: 03/16/2016
+---
 
 # Localizability
 
