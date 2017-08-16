@@ -1,4 +1,9 @@
-
+---
+title: Isolate Localizable Resources
+description: Localizable resources are the elements of a program's user interface that require translation or modification for different languages.
+ms.assetid: 5a2a1221-af37-4bac-b85b-ebb5577cbe12
+ms.date: 06/27/2016
+---
 
 # Isolate Localizable Resources
 
