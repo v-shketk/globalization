@@ -1,4 +1,9 @@
-
+---
+title: Localizability of UI Controls
+description: Localizability tips to be aware of when working with UI controls.
+ms.assetid: c082dc24-f1c1-45f2-bceb-0988c9b52989
+ms.date: 03/25/2016
+---
 
 # Localizability of UI Controls
 
