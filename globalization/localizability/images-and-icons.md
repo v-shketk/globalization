@@ -1,4 +1,9 @@
-
+---
+title: Using Images and Icons
+description: Localizability tips to improve the user experience when using icons and images.
+ms.assetid: 1a395159-6c32-437a-a660-308fbbe7ea80
+ms.date: 03/25/2016
+---
 
 # Using Images and Icons
 
