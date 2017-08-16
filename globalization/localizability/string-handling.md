@@ -1,4 +1,9 @@
-
+---
+title: String Handling for Localizability
+description: Best practice to reduce the localizability issues dealing with the strings.
+ms.assetid: 36bed552-14ec-4ab2-a4e3-fe4bd85e3b54
+ms.date: 06/27/2016
+---
 
 # String Handling for Localizability
 
