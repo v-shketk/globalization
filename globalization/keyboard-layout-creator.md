@@ -1,4 +1,9 @@
-
+---
+title: Tools and Downloads
+description: Localizability is an intermediate process for verifying that a globalized application is ready for localization.
+ms.assetid: 960b8b80-6d6e-435f-9e98-cb5eee3399b0
+ms.date: 06/27/2016
+---
 
 ### The Microsoft Keyboard Layout Creator
 
