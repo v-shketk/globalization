@@ -1,4 +1,3 @@
-
 ---
 title: Mirroring Awareness Overview
 description: System components such as the GDI and user modules have been adapted to enable control over the mirroring state of the UI objects.
