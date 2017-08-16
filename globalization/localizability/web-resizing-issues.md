@@ -1,4 +1,9 @@
-
+---
+title: Web Resizing Issues
+description: HTML interfaces are a lot harder to resize and readjust after translating the text.
+ms.assetid: 2497963d-93f6-4a58-bb91-e83d04ad3414
+ms.date: 10/20/2016
+---
 
 # Web Resizing Issues
 
