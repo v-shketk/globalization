@@ -1,4 +1,10 @@
 
+---
+title: Mirroring Awareness Overview
+description: System components such as the GDI and user modules have been adapted to enable control over the mirroring state of the UI objects.
+ms.assetid: c619f411-3c20-4758-b348-345ab4dc5f28
+ms.date: 03/16/2016
+---
 
 # Mirroring in Win32
 
