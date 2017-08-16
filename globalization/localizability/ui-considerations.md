@@ -1,4 +1,9 @@
-
+---
+title: UI Considerations for Localization
+description: UI layout needs to be properly designed to avoid the localizability issues caused by resizing UI during localization.
+ms.assetid: 9c37f0cf-ee66-448b-8be5-0efd6e6975cb
+ms.date: 06/27/2016
+---
 
 # UI Considerations for Localization
 
